@@ -25,10 +25,6 @@ class MainActivity : ComponentActivity() {
     }
 
 
-   val click = button.setOnClickListener{
-
-    }
-
 }
 
 
